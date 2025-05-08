@@ -1,12 +1,12 @@
 # Data-Analyst-Portfolio
 Lily Elizabeth John's Data Analyst Portfolio
 
-# About Me
+## About Me
 
-# Resume
+## Resume
 
-# Projects
-## Tableau
-## PowerBI
-## SQL
-## Python
+## Projects
+### Tableau
+### PowerBI
+### SQL
+### Python
