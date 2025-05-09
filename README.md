@@ -22,6 +22,7 @@ Alteryx
 
 ## Projects
 ### Tableau
+[Portfolio] (https://public.tableau.com/app/profile/lily.elizabeth.john)
 ### PowerBI
 ### SQL
 ### Python
