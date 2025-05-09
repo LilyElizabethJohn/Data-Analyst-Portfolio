@@ -11,6 +11,15 @@ I bring a strong foundation in SQL querying, data storytelling, and business per
 ## Resume 
 [Lily Elizabeth John - Data Analyst](https://github.com/LilyElizabethJohn/Data-Analyst-Portfolio/blob/main/Lily%20Elizabeth%20John%20-%20Data%20Analyst.pdf)
 
+## Certificates
+- Tableau Desktop Specialist - Certified in Jan 2021
+- Tableau Desktop Certified Associate - Certified in Mar 2021
+- Microsoft Certified: Power BI Data Analyst Associate - July 2024
+
+## Skills
+Tableau Desktop, Tableau Server, Microsoft SQL Server, MS Excel, Salesforce, PowerBI,
+Alteryx
+
 ## Projects
 ### Tableau
 ### PowerBI
